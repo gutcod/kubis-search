@@ -1,4 +1,4 @@
-# `This is a simple Search Engine which helps you find a product`
+## `This is a simple Search Engine which helps you find a product`
 
 ## `To Start:`
 
