@@ -1,0 +1,223 @@
+{
+    "data": [
+        {
+            "id": 1167,
+            "name": "Ariel Roll Sleeve Sweatshirt",
+            "description": "<p>Soft, sleek and subtle, the Ariel Roll Sleeve Sweatshirt is a nuanced fitness garment for all occasions. It works equally well as a workout piece or in a casual social setting.</p>\n<p>&bull; Purple two-tone lightweight hoodie. <br />&bull; 100% cotton.<br />&bull; Adjustable roll sleeves for Long-Sleeve or 3/4 sleeve.<br />&bull; Casual, comfy piece for running errands or weekend activities.</p>",
+            "slug": "ariel-roll-sleeve-sweatshirt-1167",
+            "base_price": 39,
+            "price": 47.970001,
+            "sku": "WH09",
+            "visibility": 2,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Hoodies & Sweatshirts",
+                    "slug": "hoodies-and-sweatshirts-24"
+                },
+                {
+                    "id": 36,
+                    "name": "Eco Friendly",
+                    "slug": "eco-friendly-36"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1353,
+            "name": "Nadia Elements Shell",
+            "description": "<p>Protect yourself from wind and rain in the stylish Nadia Elements Shell. It repels water using hydro-resistant fabric, with fleece lining that adds a touch of warmth. It's finished with bold contrast zippers, adjustable cuffs and a hood.</p>\n<p>&bull; Zippered front. <br />&bull; Zippered side pockets. <br />&bull; Drawstring-adjustable waist and hood. <br />&bull; Machine wash/line dry.<br />&bull; Light blue 1/4 zip pullover.</p>",
+            "slug": "nadia-elements-shell-1353",
+            "base_price": 69,
+            "price": 84.870001,
+            "sku": "WH10",
+            "visibility": 4,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Hoodies & Sweatshirts",
+                    "slug": "hoodies-and-sweatshirts-24"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1353,
+            "name": "Artemis Running Short",
+            "description": "<p>Discover smooth jogging and chic comfort each time you slip into the Artemis Running Short. A unique maritime-inspired design and oolor theme features a stretchy drawstring waist.</p>\n<p>&bull; Black rouched shorts with mint waist. <br />&bull; Soft, lightweight construction.<br />&bull; LumaTech&trade; wicking technology.<br />&bull; Semi-fitted.</p>",
+            "slug": "artemis-running-short-1972",
+            "base_price": 45,
+            "price": 55.350001,
+            "sku": "WH11",
+            "visibility": 4,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Hoodies & Sweatshirts",
+                    "slug": "hoodies-and-sweatshirts-24"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1769,
+            "name": "Chloe Compete Tank",
+            "description": "<p>You've earned your figure, so stay cool and let it do all the talking in the form-fitted, sleek racerback Chloe Compete Tank. Designed for total range of motion and performance, the Nona is made with highly breathable mesh fabric.</p>\r\n<p>&bull; Royal blue tank top - nylon/spandex.<br />&bull; Flatlock stitching.<br />&bull; Moisture-wicking fabric. <br />&bull; Ergonomic seaming. <br />&bull; Machine wash/dry.</p>",
+            "slug": "chloe-compete-tank-1769",
+            "base_price": 39,
+            "price": 47.970001,
+            "sku": "WH12",
+            "visibility": 4,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 36,
+                    "name": "Eco Friendly",
+                    "slug": "eco-friendly-36"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1081,
+            "name": "Autumn Pullie",
+            "description": "<p>With ultra-soft fleece fabric and an athletic design, our short-sleeve Autumn Pullie delivers a comfortable fit that makes it an everyday essential. A luxurious roll neck protects you from elements.</p>\n<p>&bull; Cayenne Short-Sleeve roll neck sweatshirt. <br />&bull; Relaxed fit. <br />&bull; Short-Sleeves. <br />&bull; Machine wash/dry.</p>",
+            "slug": "autumn-pullie-1081",
+            "base_price": 57,
+            "price": 70.110001,
+            "sku": "WH13",
+            "visibility": 4,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 36,
+                    "name": "Eco Friendly",
+                    "slug": "eco-friendly-36"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1097,
+            "name": "Miko Pullover Hoodie",
+            "description": "<p>After quality gym time, put on the Miko Pullover Hoody and keep your body warm. You'll find it's fashionable enough for the streets, but comfy enough to relax in at home.</p>\n<p>&bull; Teal two-tone hoodie.<br />&bull; Low scoop neckline.<br />&bull; Adjustable hood drawstrings.<br />&bull; Longer rounded hemline for extra back coverage.<br />&bull; Long-Sleeve style.</p>",
+            "slug": "miko-pullover-hoodie-1097",
+            "base_price": 69,
+            "price": 84.870001,
+            "sku": "WH14",
+            "visibility": 3,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 36,
+                    "name": "Eco Friendly",
+                    "slug": "eco-friendly-36"
+                },
+                {
+                    "id": 10,
+                    "name": "Hoodies & Sweatshirts",
+                    "slug": "hoodies-and-sweatshirts-24"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1894,
+            "name": "Miko Pullover Hoodie",
+            "description": "<p>Enjoy a sleek, slendering look in new Silvia Capri. Its engineer-designed support fabric feels great and gives the illusion of a slimmer fit.</p>\n<p>&bull; Green striped capri.<br />&bull; Strategic side seam<br />&bull; Comfort gusset with lining.<br />&bull; Flat seaming.<br />&bull; Wide waistband.<br />&bull; Moisture wicking.</p>",
+            "slug": "sylvia-capri-1894",
+            "base_price": 42,
+            "price": 51.660001,
+            "sku": "WH15",
+            "visibility": 4,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 36,
+                    "name": "Eco Friendly",
+                    "slug": "eco-friendly-36"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1801,
+            "name": "Antonia Racer Tank",
+            "description": "<p>You won't know what you like best about the Antonia Racer Tank: soft, stretchy, lightweight fabric? Super-cute colorblocked details? Whatever it is, this piece is sure to quickly move to the top of your workout rotation.</p>\n<p>&bull; Machine wash.<br />&bull; Line dry.</p>",
+            "slug": "antonia-racer-tank-1801",
+            "base_price": 34,
+            "price": 41.820001,
+            "sku": "WH16",
+            "visibility": 4,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Hoodies & Sweatshirts",
+                    "slug": "hoodies-and-sweatshirts-24"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1641,
+            "name": "Celeste Sports Bra",
+            "description": "<p>Whatever your goals for the day's workout, the Celeste Sports Bra lets you do it in comfort and coolness, plus enhanced support and shaping. A power mesh back zone and moisture-wicking fabric ensure you stay dry.</p>\n<p>&bull; Mint bra top. <br />&bull; Seam-free interior molded cups<br />&bull; Odor control. <br />&bull; UV protection. <br />&bull; Machine wash/dry.</p>",
+            "slug": "celeste-sports-bra-1641",
+            "base_price": 39,
+            "price": 47.970001,
+            "sku": "WH17",
+            "visibility": 4,
+            "status": 2,
+            "categories": [
+                {
+                    "id": 36,
+                    "name": "Eco Friendly",
+                    "slug": "eco-friendly-36"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        },
+        {
+            "id": 1737,
+            "name": "Nona Fitness Tank",
+            "description": "<p>It doesn't matter if your goal is 5 miles or an hour of Vinyasa, because our Nona Fitness Tank does it all. You don't have to sacrifice either -- this v-neck top features smooth, chafe-free seams and a breathable mesh back insert. Cute, too.</p>\n<p>&bull; Blue/white striped mesh tank.<br />&bull; Relaxed fit. <br />&bull; Chafe-resistant trim around armholes and collar. <br />&bull; Machine wash/dry.</p>",
+            "slug": "nona-fitness-tank-1737",
+            "base_price": 39,
+            "price": 47.970001,
+            "sku": "WH18",
+            "visibility": 3,
+            "status": 1,
+            "categories": [
+                {
+                    "id": 10,
+                    "name": "Hoodies & Sweatshirts",
+                    "slug": "hoodies-and-sweatshirts-24"
+                }
+            ],
+            "tax_class": 1,
+            "main_image": "https://placehold.it/500x500"
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 10,
+            "count": 10,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1
+        }
+    }
+}
